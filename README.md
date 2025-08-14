@@ -10,6 +10,7 @@ Using the miniaudio.h library for backgroundmusic and SFX.
 
 ## Building
 Idk
+Don't resize the window by dragging the edges or pressing alt + tab, that ruins is unless you restart it.
 
 ## Future upgrades
 - Highscore
